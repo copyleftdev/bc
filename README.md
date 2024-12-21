@@ -70,9 +70,6 @@ When GNU parallel is available, bc will:
 - Bash
 - GNU parallel (optional, for parallel processing)
 
-## License
-
-MIT License
 
 ## Author
 
